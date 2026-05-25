@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001017C600,0005000010181F00
+name = Blade's Early Alt Deco 
+path = "Skylanders Trap Team Blades Early Alt Deco/Blade's Early Alt Deco"
+description = Blade's Early Alt Deco is a mod that tries to bring Blade's earlier colour scheme from his early promotional renders and design back into the game, so everyone can enjoy the earlier colour scheme of everyone's favourite edgy Skylander! ||Version 2.0 ||Made by Awex Studio.
+version = 6
